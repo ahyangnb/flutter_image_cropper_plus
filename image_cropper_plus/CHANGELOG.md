@@ -1,3 +1,7 @@
+## 6.0.2
+
+* fix iOS running error.
+
 ## 6.0.1
 
 * iOS: Add doneButtonTitleColor and cancelButtonTitleColor property to IOSUiSettings.

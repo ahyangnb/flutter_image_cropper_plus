@@ -1,3 +1,8 @@
+## 5.0.2
+
+* use channel `plugins.hunghd.vn/image_cropper_plus`.
+
+
 ## 5.0.1
 
 * Add doneButtonTitleColor and cancelButtonTitleColor property to IOSUiSettings.

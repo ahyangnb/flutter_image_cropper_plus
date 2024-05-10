@@ -8,7 +8,8 @@ import 'package:flutter/services.dart';
 
 import 'package:image_cropper_plus_platform_interface/image_cropper_plus_platform_interface.dart';
 
-const MethodChannel _channel = MethodChannel('plugins.hunghd.vn/image_cropper');
+const MethodChannel _channel =
+    MethodChannel('plugins.hunghd.vn/image_cropper_plus');
 
 /// An implementation of [ImageCropperPlatform] that uses method channels.
 class MethodChannelImageCropper extends ImageCropperPlatform {
